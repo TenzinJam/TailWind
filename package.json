@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TenzinJam/TailWind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TenzinJam/TailWind/issues"
+  },
+  "homepage": "https://github.com/TenzinJam/TailWind#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
