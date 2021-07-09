@@ -8,3 +8,5 @@ Once you have the config file, you can make the changes and for the app to integ
 So, rename the first config file so that it is a regular js file and run the commang again to create a tailwind config file. Now make the changes in there. Remember to use the
 
 [] using tailwindd css intellisense for autosuggestion of styling, such as colors, font, and others
+
+[] in Tailwind we do not need to manually create any media querries at all. 
