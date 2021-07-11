@@ -9,4 +9,8 @@ So, rename the first config file so that it is a regular js file and run the com
 
 [] using tailwindd css intellisense for autosuggestion of styling, such as colors, font, and others
 
-[] in Tailwind we do not need to manually create any media querries at all. 
+[] in Tailwind we do not need to manually create any media querries at all.
+
+[] If you do not specify the input file by adding "-i" in your script for build-css, then it will not work. The console will remind you to add "-i" in your script, and you should, because some tutorials will not have this additional "-i". I ran into a bug because this and got it resolved it as soon as I added the "-i"
+
+
