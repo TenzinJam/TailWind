@@ -13,4 +13,7 @@ So, rename the first config file so that it is a regular js file and run the com
 
 [] If you do not specify the input file by adding "-i" in your script for build-css, then it will not work. The console will remind you to add "-i" in your script, and you should, because some tutorials will not have this additional "-i". I ran into a bug because this and got it resolved it as soon as I added the "-i"
 
+[] tailwind does not come with icons, so we need to use an external library. In this tutorial we get to choose our icons from heroicons.
+
+
 
